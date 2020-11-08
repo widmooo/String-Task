@@ -14,5 +14,7 @@ Output:
 Examples:
 
 ('tour')      =>  '.t.r'
+
 ('Codewars')  =>  '.c.d.w.r.s'
+
 ('aBAcAba')   =>  '.b.c.b'
