@@ -11,5 +11,4 @@ def string_task(s):
     print(result)
     return(result)
 
-
 string_task("Tour")  # WHY IT RETURN WITH "U" LETTER!??!
