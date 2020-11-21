@@ -12,3 +12,8 @@ def string_task(s):
     return(result)
 
 string_task("Tour")  # WHY IT RETURN WITH "U" LETTER!??!
+string_task("Codewars")
+string_task("aaa")  # ???????????
+string_task("computer")
+string_task("car")
+string_task("abdce")
